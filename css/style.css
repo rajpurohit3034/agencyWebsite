@@ -1,0 +1,715 @@
+/*reset*/
+
+* {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+}
+
+.pd {
+     padding-top: 70px;
+     padding-bottom: 70px;
+}
+
+.bgcolor {
+     background-color: #5352ed;
+     height: 590px;
+}
+
+.bgcolorimg {
+     background: url("../image/left-dot-img.png") no-repeat 0 0;
+     background-color: #5352ed;
+     height: 590px;
+}
+
+.bgcolortitle {
+     color: #ffffff;
+     font-size: 70px;
+}
+
+.bgcolortext {
+     color: #ffffff;
+     font-size: 20px;
+}
+
+.nav-item {
+     margin-left: 40px;
+
+}
+
+.logo h1 {
+     color: #ffffff;
+     font-size: 50px;
+     font-weight: bold;
+
+}
+
+.nav-item a {
+     font-size: 30px;
+
+     color: #2f3640;
+}
+
+.navbar-nav {
+     margin-left: 50px;
+}
+
+.buttontext {
+
+     color: #2f3640;
+     font-size: 25px;
+
+}
+
+.paltform {
+     font-size: 60px;
+}
+
+.shawdow1 {
+
+     padding-top: 50px;
+     height: 700px;
+     background-image: url('../image/cricle-shape3-shadow.png');
+     position: relative;
+     width: 100%;
+
+}
+
+.shawdow2 {
+
+     padding-top: 50px;
+     height: 700px;
+     background-image: url('../image/cricle-shape3-shadow.png');
+     position: relative;
+     width: 100%;
+}
+
+.shawdow3 {
+
+     padding-top: 50px;
+     height: 700px;
+     background-image: url('../image/cricle-shape3-shadow.png');
+     position: relative;
+     width: 100%;
+}
+
+.imgill {
+     background-image: url("../image/Illustration-img.png");
+     background-position: fixed;
+     height: 690px;
+     width: 100%;
+     margin-bottom: 60px;
+
+}
+
+.imgtitle {
+     font-size: 50px;
+}
+
+.imgtext {
+     font-size: 13px;
+     margin-right: 0px;
+     font-weight: bold;
+}
+
+.imgtextmra {
+     margin-right: 255px;
+}
+
+.textimg {
+     font-size: 50px;
+}
+
+.pra {
+     font-size: 14px;
+     color: #2f3640;
+}
+
+.services {
+     padding-bottom: 160px;
+}
+
+.shape1 {
+     background: url("../image/cricle-shape1.png") no-repeat;
+     height: 90px;
+     background-position: fixed;
+     margin-left: 110px;
+}
+
+.shape1text {
+     margin-left: 95px;
+     padding-top: 10px;
+     font-weight: bold;
+}
+
+.shape1text1 {
+     margin-right: 200px;
+}
+
+.shape2 {
+     background: url("../image/cricle-shape2.png") no-repeat;
+     height: 90px;
+     background-position: fixed;
+     margin-left: 110px;
+}
+
+.shape2text {
+     margin-left: 55px;
+     padding-top: 15px;
+     font-weight: bold;
+
+}
+
+.shape2text2 {
+     margin-right: 25px;
+}
+
+.shape3 {
+
+     margin-left: 100px;
+
+}
+
+.shape3text {
+     font-size: 14px;
+     font-weight: bold;
+     margin-left: 10px;
+     margin-bottom: 50px;
+
+}
+
+.imgill {
+     background-image: url("../image/Illustration-img.png");
+     background-position: fixed;
+     height: 690px;
+     width: 100%;
+     margin-bottom: 60px;
+
+}
+
+.imgtitle {
+     font-size: 50px;
+}
+
+.imgtext {
+     font-size: 13px;
+     margin-right: 0px;
+     font-weight: bold;
+}
+
+.imgtextmra {
+     margin-right: 255px;
+}
+
+.textimg {
+     font-size: 50px;
+}
+
+.last {
+     background-color: #edeff0;
+     font-size: 20px;
+     padding-bottom: 10px;
+     padding-top: 15px;
+
+}
+
+.footerlink {
+     margin-left: 100px;
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+     .bgcolor {
+          background-color: #5352ed;
+     }
+
+     .bgcolortitle {
+          color: #ffffff;
+          font-size: 70px;
+     }
+
+     .bgcolortext {
+          color: #ffffff;
+          font-size: 20px;
+     }
+
+     .nav-item {
+          margin-left: 25px;
+
+
+     }
+
+     .logo h1 {
+          color: #ffffff;
+          font-size: 45px;
+          font-weight: bold;
+
+     }
+
+     .nav-item a {
+          font-size: 23px;
+          font-weight: bold;
+          color: #ffffff;
+     }
+
+     .buttontext {
+
+          color: #2f3640;
+          font-size: 25px;
+
+     }
+
+     .paltform {
+          font-size: 60px;
+          text-align: center;
+     }
+
+     .shawdow1 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+
+     }
+
+     .shawdow2 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+     }
+
+     .shawdow3 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+     }
+
+     .shape1 {
+          background: url("../image/cricle-shape1.png") no-repeat;
+          height: 90px;
+          background-position: fixed;
+          margin-left: 110px;
+     }
+
+     .shape1text {
+          margin-left: 95px;
+          padding-top: 10px;
+          font-weight: bold;
+     }
+
+     .shape1text1 {
+          margin-right: 200px;
+     }
+
+     .shape2 {
+          background: url("../image/cricle-shape2.png") no-repeat;
+          height: 90px;
+          background-position: fixed;
+          margin-left: 110px;
+     }
+
+     .shape2text {
+          margin-left: 55px;
+          padding-top: 15px;
+          font-weight: bold;
+
+     }
+
+     .shape2text2 {
+          margin-right: 25px;
+     }
+
+     .shape3 {
+
+          margin-left: 100px;
+
+     }
+
+     .shape3text {
+          font-size: 14px;
+          font-weight: bold;
+          margin-left: 10px;
+          margin-bottom: 50px;
+
+     }
+
+     .imgill {
+          background-image: url("../image/Illustration-img.png");
+          background-position: fixed;
+          height: 690px;
+          width: 100%;
+          margin-bottom: 60px;
+
+     }
+
+     .imgtextmra {
+          margin-right: 255px;
+     }
+
+     .textimg {
+          font-size: 50px;
+     }
+
+     .pra {
+          font-size: 14px;
+          color: #2f3640;
+     }
+
+     .services {
+          padding-bottom: 160px;
+     }
+
+     .last {
+          background-color: #edeff0;
+          font-weight: bold;
+          font-size: 14px;
+          padding-bottom: 10px;
+          padding-top: 15px;
+
+     }
+
+     .footerlink {
+          margin-left: 20px;
+     }
+}
+
+@media(min-width:575px) and (max-width:767px) {
+
+     .bgcolor {
+          background-color: #5352ed;
+     }
+
+     .bgcolortitle {
+          color: #ffffff;
+          font-size: 55px;
+     }
+
+     .bgcolortext {
+          color: #ffffff;
+          font-size: 18px;
+     }
+
+     .nav-item {
+          margin-left: 25px;
+     }
+
+     .logo h1 {
+          color: #ffffff;
+          font-size: 45px;
+          font-weight: bold;
+     }
+
+     .nav-item a {
+          font-size: 30px;
+
+          color: #ffffff;
+     }
+
+     .buttontext {
+          color: #2f3640;
+          font-size: 25px;
+     }
+
+     .paltform {
+          font-size: 43px;
+          text-align: center;
+     }
+
+     .shawdow1 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+
+     }
+
+     .shawdow2 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+     }
+
+     .shawdow3 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+     }
+
+     .imgill {
+          background-image: url("../image/Illustration-img.png");
+          background-position: fixed;
+          height: 690px;
+          width: 100%;
+          margin-bottom: 60px;
+
+     }
+
+     .imgtitle {
+          font-size: 65px;
+     }
+
+     .imgtext {
+          font-size: 15px;
+          margin-right: 30px;
+
+     }
+
+     .imgtextmra {
+          margin-right: 290px;
+     }
+
+     .textimg {
+          font-size: 50px;
+     }
+
+     .pra {
+          font-size: 14px;
+          color: #2f3640;
+     }
+
+     .services {
+          padding-bottom: 160px;
+     }
+
+     .shape1 {
+          background: url("../image/cricle-shape1.png") no-repeat;
+          height: 90px;
+          background-position: fixed;
+          margin-left: 75px;
+     }
+
+     .shape1text {
+          margin-left: 95px;
+          padding-top: 15px;
+          font-weight: bold;
+          font-size: 18px;
+     }
+
+     .shape1text1 {
+          margin-right: 240px;
+     }
+
+     .shape2 {
+          background: url("../image/cricle-shape2.png") no-repeat;
+          height: 90px;
+          background-position: fixed;
+          margin-left: 75px;
+     }
+
+     .shape2text {
+          margin-left: 60px;
+          padding-top: 15px;
+          font-weight: bold;
+          font-size: 19px;
+
+     }
+
+     .shape2text2 {
+          margin-right: 25px;
+     }
+
+     .shape3 {
+          margin-left: 45px;
+     }
+
+
+
+     .shape3text {
+          font-size: 18px;
+          margin-left: 10px;
+          margin-bottom: 50px;
+
+     }
+
+
+     .last {
+          background-color: #edeff0;
+          font-size: 20px;
+          padding-bottom: 10px;
+          padding-top: 10px;
+     }
+
+     .footerlink {
+          margin-left: 10px;
+     }
+
+}
+
+@media(min-width:480px) and (max-width:574px) {
+
+     .bgcolor {
+          background-color: #5352ed;
+          height: 500px;
+     }
+
+     .bgcolorimg {
+          background: url("../image/left-dot-img.png") no-repeat 0 0;
+          background-color: #5352ed;
+          height: 500px;
+     }
+
+     .bgcolortitle {
+          color: #ffffff;
+          font-size: 40px;
+     }
+
+     .bgcolortext {
+          color: #ffffff;
+          font-size: 13px;
+     }
+
+     .nav-item {
+          margin-left: 40px;
+
+     }
+
+     .logo h1 {
+          color: #ffffff;
+          font-size: 40px;
+          font-weight: bold;
+
+     }
+
+     .nav-item a {
+          font-size: 30px;
+
+          color: #2f3640;
+     }
+
+
+     .navbar-nav {
+          margin-left: 50px;
+     }
+
+     .buttontext {
+
+          color: #2f3640;
+          font-size: 20px;
+          padding-top: 50px;
+     }
+
+
+     .shawdow1 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+
+     }
+
+     .shawdow2 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+     }
+
+     .shawdow3 {
+
+          padding-top: 50px;
+          height: 700px;
+          background-image: url('../image/cricle-shape3-shadow.png');
+          position: relative;
+          width: 100%;
+     }
+
+     .textimg {
+          font-size: 50px;
+     }
+
+     .pra {
+          font-size: 14px;
+          color: #2f3640;
+     }
+
+     .services {
+          padding-bottom: 160px;
+     }
+
+     .shape1 {
+          background: url("../image/cricle-shape1.png") no-repeat;
+          height: 90px;
+          background-position: fixed;
+          margin-left: 45px;
+     }
+
+     .shape1text {
+          margin-left: 95px;
+          padding-top: 15px;
+          font-size: 15px;
+
+     }
+
+     .shape1text1 {
+          margin-right: 190px;
+     }
+
+     .shape2 {
+          background: url("../image/cricle-shape2.png") no-repeat;
+          height: 90px;
+          background-position: fixed;
+          margin-left: 45px;
+     }
+
+     .shape2text {
+          margin-left: 60px;
+          padding-top: 15px;
+          font-size: 15px;
+     }
+
+     .shape2text2 {
+          margin-right: 25px;
+     }
+
+     .shape3 {
+          margin-left: 13px;
+     }
+
+     .shape3text {
+          font-size: 15px;
+          margin-left: 10px;
+          margin-bottom: 50px;
+     }
+
+     .shape3text2 {
+          margin-bottom: 100px;
+          font-size: 15px;
+     }
+
+
+     .last {
+          background-color: #edeff0;
+
+          font-size: 18px;
+          padding-bottom: 10px;
+          padding-top: 15px;
+
+     }
+
+     .footerlink {
+          margin-left: 10px;
+
+     }
+
+
+}
